@@ -1,10 +1,9 @@
 ## hello world
 
 ### App Description
-`TODO://` Hello world app using android studio
+ Hello world app using android studio
 
 ### App Walk-though
-` adding gif)
 
 <img src="https://i.imgur.com/dgTtqU0.gif" width=300><br>
 
